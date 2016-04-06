@@ -1,0 +1,26 @@
+﻿/* Styles for the elements */
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid blue;
+    background-color: White;
+}
+header {
+    border-bottom: 2px solid blue;
+}
+    header h1 {
+        color: #0000FF;
+    }
+    header h2 {
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        color: #ff0000;
+    }
+h1 {
+    color: #0000FF;
+}
+
+footer {
+    border-top: 2px solid blue;
+}
+    

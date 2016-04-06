@@ -1,0 +1,78 @@
+﻿/* styles for the elements */
+body {
+    font-size: 85%;
+    width: 550px;
+    margin: 0 auto;
+    padding: 15px;
+}
+header {
+    padding-bottom: 1em;
+}
+    header h1 {
+        font-size: 200%;
+        font-weight: bold;
+        margin: 0 0 .25em;
+    }
+    header h2 {
+        font-size: 140%;
+        margin-left: 1em;
+    }
+section {
+    padding: 10px;
+}
+h1 {
+    font-size: 140%;
+    margin: .5em 0 .25em;
+}
+h2 {
+    font-size: 120%;
+    margin: .5em 0;
+}
+footer p {
+        font-size: 80%;
+        text-align: right;
+        margin-bottom: 0;
+}
+label {
+    margin-right: 1em;
+}
+input {
+    margin-bottom: .5em;
+    display: block;
+}
+button, input[type="submit"], .button {
+    display: inline-block;
+    padding: .25em .5em;
+    width: 7em;
+}
+select {
+    margin-bottom: .5em;
+    width: 5em;
+}
+textarea {
+    height: 5em;
+    width: 25em;
+    margin-bottom: .5em;
+}
+/* styles for the class selectors */
+.label {
+    float: left;
+    width: 9em;
+}
+.entry {
+    width: 12em;
+}
+.error {
+    color: red;
+}
+.success {
+    color: green;
+}
+
+/* styles for the ID selectors */
+#Menu1 {
+    padding: .5em 1em;
+    width: 85%;
+}
+
+
